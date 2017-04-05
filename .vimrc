@@ -17,3 +17,5 @@ autocmd FileType cpp set autoindent
 "all"
 "开启语法高亮
 syntax on
+"设置颜色主题为evening
+colorscheme evening
