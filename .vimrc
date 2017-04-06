@@ -18,4 +18,6 @@ autocmd FileType cpp set autoindent
 "开启语法高亮
 syntax on
 "设置颜色主题为evening
-colorscheme evening
+colorscheme desert
+"设置搜索高亮
+set hlsearch
